@@ -1,0 +1,13 @@
+﻿{
+  "name": "iptv-streaming",
+  "version": "1.0.0",
+  "description": "A simple IPTV streaming server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "http": "^0.0.1"
+  }
+}
